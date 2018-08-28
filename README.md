@@ -10,3 +10,4 @@ GoIP voip gateways projects
 
 [Perl] [SMS Gateway for GoIP equipment on Perl](https://github.com/thiagodk/goip-sms-server)
 
+[npm] [nodejs module for send sms via goip gsm gateway](https://github.com/antirek/goip-sms)
